@@ -141,7 +141,15 @@ AND (
 
 
 
-y
+#### 返回条件计数
+
+
+
+有一些行为看不懂，但是下面这个可以
+
+```typescriptreact
+	`RETURN count(SELECT * FROM task_record WHERE status = "completed" AND user = user:${userId})`,
+```
 
 
 
