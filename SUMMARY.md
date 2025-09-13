@@ -9,3 +9,4 @@
 * [shadcn UI 扩展](shadcn-ui-kuo-zhan.md)
 * [快速数据](kuai-su-shu-ju.md)
 * [surrealdb](surrealdb.md)
+* [html to pdf](html-to-pdf.md)
